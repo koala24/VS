@@ -24,3 +24,9 @@ hs_err_pid*
 /Sockets/SocketServer_with_multiple_clients/SocketClient/nbproject/private/
 /Sockets/SocketServer_with_multiple_clients/SocketServer/build/
 /Sockets/SocketServer_with_multiple_clients/SocketClient/build/
+/Sockets/SocketServer_with_multiple_process_clients/SocketServer/nbproject/private/
+/Sockets/SocketServer_with_multiple_process_clients/SocketClient/nbproject/private/
+/Sockets/SocketServer_with_multiple_process_clients/SocketServer/build/
+/Sockets/SocketServer_with_multiple_process_clients/SocketServer/dist/
+/Sockets/SocketServer_with_multiple_process_clients/SocketClient/dist/
+/Sockets/SocketServer_with_multiple_process_clients/SocketClient/build/
