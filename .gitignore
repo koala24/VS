@@ -20,3 +20,7 @@ hs_err_pid*
 /Uebung/MagicSquare/dist/
 /Uebung/SocketServer/nbproject/private/
 /Uebung/SocketClient/nbproject/private/
+/Sockets/SocketServer_with_multiple_clients/SocketServer/nbproject/private/
+/Sockets/SocketServer_with_multiple_clients/SocketClient/nbproject/private/
+/Sockets/SocketServer_with_multiple_clients/SocketServer/build/
+/Sockets/SocketServer_with_multiple_clients/SocketClient/build/
