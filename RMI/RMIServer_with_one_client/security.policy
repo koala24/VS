@@ -1,0 +1,4 @@
+
+grant codeBase "file:C:/Users/KOALA/Desktop/RMI/-" {
+permission java.security.AllPermission;
+};
